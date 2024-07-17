@@ -16,4 +16,4 @@ for x in range(numberofpassword):
         password = password + random.choice(randomchars)
     print(password)
 
-print("Thank for using Devarajan's Random Password Generator !")
+print("Thank You for using Devarajan's Random Password Generator !")
